@@ -1,4 +1,3 @@
-# Basic-Chat-Application
 Peter Nguyen  
 V00957051  
 
